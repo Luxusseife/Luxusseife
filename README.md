@@ -1,16 +1,13 @@
-### Hi there 👋
+# Luxusseife
+Jag heter Jenny Lind och detta är mitt GitHub-konto.
 
-<!--
-**Luxusseife/Luxusseife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Information om mig
+Jag är 37 år och bor i Bjärnum med min man Mattias och vår son Ender.
 
-Here are some ideas to get you started:
+### En lista som beskriver mig!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. 
+2. 
+3.
+4. 
+5. 
