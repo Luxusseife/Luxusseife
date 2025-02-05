@@ -2,7 +2,7 @@
 Jag heter Jenny Lind och detta är mitt GitHub-konto.
 
 ## Information om mig
-Jag är 37 år och bor i Bjärnum med min man Mattias och vår son Ender.
+Jag är 38 år och bor i Bjärnum med min man Mattias och vår son Ender.
 
 ### En lista med saker jag gillar
 
